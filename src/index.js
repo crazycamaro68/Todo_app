@@ -9,5 +9,5 @@ project.projects[0].newTodo("Order Metal","Order metal from Higgins","09/25/2024
 
 project.createNewProject("House");
 project.projects[1].newTodo("Get eletric","call aes and get eletric","10/30/2024","high");
-console.log(project);
+
 render(project.projects);
